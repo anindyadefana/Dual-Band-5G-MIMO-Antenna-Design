@@ -92,7 +92,7 @@ Radiation pattern and directivity characteristics were evaluated for all antenna
 | Substrate | FR-4 | FR-4 | ✅ |
 | Dielectric Constant | εr = 4.3 | εr = 4.3 | ✅ |
 | Substrate Thickness | 1.6 mm | 1.6 mm | ✅ |
-| Return Loss | S11, S22, S33, S44 ≤ -10 dB | -16.81 dB @ 26 GHz | ✅ |
+| Return Loss | S11, S22, S33, S44 ≤ -10 dB | -16.81 dB at 26 GHz | ✅ |
 | VSWR | ≤ 2 | ≤ 2 at 3.5 GHz & 26 GHz | ✅ |
 | Polarization | Linear | Linear | ✅ |
 | Radiation Pattern | Directional | Directional | ✅ |
